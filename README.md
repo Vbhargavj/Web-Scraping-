@@ -1,2 +1,2 @@
 # Web-Scraping-
-this is only learning purpose 
+this is only for learning purpose 
